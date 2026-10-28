@@ -110,7 +110,7 @@
     "@types/jsdom": "^30.0.0",
     "@types/jsonwebtoken": "^9.0.10",
     "@types/mime-types": "^3.0.1",
-    "@types/mocha": "^10.0.9",
+    "@types/mocha": "^10.0.10",
     "@types/node": "^26.6.5",
     "@types/nodemailer": "^8.0.2",
     "@types/oidc-provider": "^9.12.1",
